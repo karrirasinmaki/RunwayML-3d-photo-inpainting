@@ -1,0 +1,6 @@
+[submodule "WBCartoonization"]
+	path = WBCartoonization
+	url = https://github.com/karrirasinmaki/White-box-Cartoonization
+[submodule "PhotoInpainting"]
+	path = PhotoInpainting
+	url = https://github.com/karrirasinmaki/3d-photo-inpainting
